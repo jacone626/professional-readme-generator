@@ -28,6 +28,7 @@ const questions = [
         type: 'list',
         message: 'Please choose your license for this project.',
         name: "license",
+        choices: "....",
       },
       {
         type: 'input',
@@ -53,57 +54,24 @@ const questions = [
 
 inquirer.prompt([
     {
-      type: 'list',
+      type: 'input',
       message: 'What is your user name?',
       name: 'username',
-      choices: ["hello", "good", "no"]
+    //   choices: ["hello", "good", "no"]
     },
 ])
+.then((username) =>
+  fs.appendFile('README-sample.md', generateREADME(username), (err) =>
+  err ? console.error(err) : console.log('Commit logged!')
+  ));
+
 
 // TODO: Create a function to write README file
-const generateREADME = () =>
-`# Title
 
-## Description
-
-
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contributions](#how-to-contribute)
-- [Tests](#tests)
-- [Questions](#questions)
-
-## Installation
-
-
-
-## Usage
-
-
-
-## License
-
-
-
-## How to Contribute
-
-
-
-## Tests
-
-
-
-## Questions`
-
-
-function writeToFile(fileName, data) {
-
+function writeToFile(data) {
+  fs.appendFile('README-sample.md', generateREADME(data), (err) =>
+  err ? console.error(err) : console.log('Commit logged!')
+  );
 }
 
 // TODO: Create a function to initialize app
