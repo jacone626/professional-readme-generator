@@ -1,9 +1,9 @@
-# Sample Readme
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
+# Sample README
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
   
-new project
+this is the description
   
 ## Table of Contents 
   
@@ -16,11 +16,11 @@ new project
   
 ## Installation
   
-N/A
+clone repo
   
 ## Usage
   
-To create a readme file
+To make readme
   
 ## License
   
@@ -32,11 +32,11 @@ https://opensource.org/licenses/MIT
 
 [Contributor Covenant](https://www.contributor-covenant.org/)
   
-N/A
+Please contribute here
   
 ## Tests
   
-These are tests
+Run tests here
   
 ## Questions
 
