@@ -22,7 +22,7 @@ Within the project, a new file with your generated readme will be creadted. This
 
 Below is a link to a walkthrough video:
 
-
+[Walkthrough Video](https://drive.google.com/file/d/1fVTyigUw8dCo-MwCAzztpA4_Z5b25sjx/view)
 
 ## Credits
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
