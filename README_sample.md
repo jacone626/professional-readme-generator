@@ -1,9 +1,9 @@
-# my project
-![License: Apache License 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# readme generator
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)(https://opensource.org/licenses/MPL-2.0)
 
 ## Description
   
-this is a good project
+this is a test
   
 ## Table of Contents 
   
@@ -16,26 +16,28 @@ this is a good project
   
 ## Installation
   
-ddd
+n/a
   
 ## Usage
   
-dddd
+to create readme
   
 ## License
   
-Apache License 2.0
+This project is covered under the Mozilla Public License 2.0. More information can be found below:
+
+(https://opensource.org/licenses/MPL-2.0)
   
 ## How to Contribute
   
-dd
+n/a
   
 ## Tests
   
-g
+there are no tests
   
 ## Questions
 
-Github profile: github.com/jacone626
+Github profile: https://github.com/jacone626
 
 For additiional questions, please contact me at jacone97@aol.com.
