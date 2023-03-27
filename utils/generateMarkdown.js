@@ -172,6 +172,8 @@ ${renderLicenseSection(data.license)}
 ${renderLicenseLink(data.license)}
   
 ## How to Contribute
+
+[Contributor Covenant](https://www.contributor-covenant.org/)
   
 ${data.contribution}
   

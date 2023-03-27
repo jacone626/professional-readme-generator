@@ -1,9 +1,9 @@
-# readme generator
-![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)(https://opensource.org/licenses/MPL-2.0)
+# Sample Readme
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
 
 ## Description
   
-this is a test
+new project
   
 ## Table of Contents 
   
@@ -16,28 +16,30 @@ this is a test
   
 ## Installation
   
-n/a
+N/A
   
 ## Usage
   
-to create readme
+To create a readme file
   
 ## License
   
-This project is covered under the Mozilla Public License 2.0. More information can be found below:
+This project is covered under the MIT License. More information can be found below:
 
-(https://opensource.org/licenses/MPL-2.0)
+https://opensource.org/licenses/MIT
   
 ## How to Contribute
+
+[Contributor Covenant](https://www.contributor-covenant.org/)
   
-n/a
+N/A
   
 ## Tests
   
-there are no tests
+These are tests
   
 ## Questions
 
 Github profile: https://github.com/jacone626
 
-For additiional questions, please contact me at jacone97@aol.com.
+For additiional questions, please contact me at jacone626@gmail.com.
